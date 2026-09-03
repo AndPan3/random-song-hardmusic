@@ -36,3 +36,12 @@ footer p{
     font-weight: bolder;
     text-decoration: underline;
 }
+@media(max-width:1024px){
+    h1{
+        font-size:6vh;
+        margin-bottom: 2vh;
+    }
+    #button{
+        font-size: 5vh;
+    }
+}

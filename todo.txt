@@ -1,3 +1,4 @@
 TODO
-	CSS Mobile scaling
+	CSS Mobile scaling (pending)
+	CSS for redirection sitess
 	New Songs
